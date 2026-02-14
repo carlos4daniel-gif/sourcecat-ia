@@ -1,2 +1,7 @@
-streamlit
+fastapi
+uvicorn
 mistralai
+requests
+beautifulsoup4
+pydantic
+python-multipart
